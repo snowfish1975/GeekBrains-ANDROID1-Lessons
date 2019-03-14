@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ПОГОДА</string>
+    <string name="the_msg">Погода на сегодня</string>
+</resources>
