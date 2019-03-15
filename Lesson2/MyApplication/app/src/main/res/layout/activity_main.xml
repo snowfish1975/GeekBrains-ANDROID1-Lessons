@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="м/с"
+        android:textSize="30sp"
+        android:layout_x="270dp"
+        android:layout_y="179dp" />
+
+    <TextView
+        android:id="@+id/windSpeedField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10"
+        android:textSize="30sp"
+        android:layout_x="225dp"
+        android:layout_y="179dp" />
+
+    <TextView
+        android:id="@+id/windDirectionField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ю/з"
+        android:textSize="30sp"
+        android:layout_x="152dp"
+        android:layout_y="179dp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="%"
+        android:textSize="30sp"
+        android:layout_x="202dp"
+        android:layout_y="123dp" />
+
+    <TextView
+        android:id="@+id/humidityField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="80"
+        android:textSize="30sp"
+        android:layout_x="152dp"
+        android:layout_y="123dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="°С"
+        android:textSize="30sp"
+        android:layout_x="202dp"
+        android:layout_y="69dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ветер"
+        android:layout_x="41dp"
+        android:layout_y="201dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Влажность"
+        android:layout_x="41dp"
+        android:layout_y="145dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Погода сегодня"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Температура"
+        android:layout_x="41dp"
+        android:layout_y="91dp" />
+
+     <TextView
+        android:id="@+id/tempField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+10"
+        android:textSize="30sp"
+        android:layout_x="152dp"
+        android:layout_y="69dp" />
+
+</AbsoluteLayout>
