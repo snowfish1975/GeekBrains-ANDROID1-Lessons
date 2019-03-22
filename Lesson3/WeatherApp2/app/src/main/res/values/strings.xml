@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Мировая Погода</string>
+    <string name="to_second">ПОКАЗАТЬ ПОГОДУ</string>
+    <string name="title_activity_second">Погода в городе</string>
+    <string name="cityPrompt">Введите название города:</string>
+</resources>
