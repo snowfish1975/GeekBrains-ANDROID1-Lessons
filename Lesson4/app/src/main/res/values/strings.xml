@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">World Weather</string>
+    <string name="to_second">SHOW WEATHER</string>
+    <string name="title_activity_second">Weather in the City</string>
+    <string name="cityPrompt">Enter city name here:</string>
+    <string name="showPressure">Show atmosphere pressure</string>
+    <string name="showHumidity">Show humidity</string>
+    <string name="showWind">Show wind speed and direction</string>
+    <string name="cityNameHint">city name</string>
+    <string name="showTemperature">Show temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind direction</string>
+    <string name="pressure">Atmosphere pressure</string>
+</resources>

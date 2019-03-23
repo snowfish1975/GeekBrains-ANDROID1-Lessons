@@ -1,0 +1,6 @@
+package com.example.weatherapp;
+
+public enum WeatherTypes { SUN, CLOUD, RAIN, SNOW, LIGHTNING, SUN_CLOUD, SUN_CLOUD_RAIN,
+    CLOUD_RAIN, CLOUD_LIGHTNING, CLOUD_RAIN_LIGHTNING, CLOUD_SNOW, CLOUD_RAIN_SNOW
+}
+
