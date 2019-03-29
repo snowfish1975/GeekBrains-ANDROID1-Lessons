@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мировая Погода</string>
+    <string name="to_second">ПОКАЗАТЬ ПОГОДУ</string>
+    <string name="title_activity_second">Погода в городе</string>
+    <string name="cityPrompt">Введите название города:</string>
+    <string name="showPressure">Показывать атмосферное давление</string>
+    <string name="showHumidity">Показывать влажность</string>
+    <string name="showWind">Показывать направление и силу ветра</string>
+    <string name="cityNameHint">название города</string>
+    <string name="showTemperature">Показывать температуру</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Направление ветра</string>
+    <string name="pressure">Атмосферное давление</string>
+</resources>
